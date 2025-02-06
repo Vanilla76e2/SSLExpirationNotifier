@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ssl-expiration-notifier:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ssl_expiration_notifier_jar</output-path>
+    <root id="archive" name="ssl-expiration-notifier.jar">
+      <element id="module-output" name="ssl-expiration-notifier" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/sun/mail/javax.mail/1.6.2/javax.mail-1.6.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/activation/activation/1.1.1/activation-1.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
